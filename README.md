@@ -19,9 +19,9 @@
 
 <p align="left">
 <a href="https://instagram.com/rithvikbhaskar"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://linkedin.com/in/rithvikbhaskar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/c-rithvik-b-266035297/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:rithvikbhaskarc@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="[https://medium.com/@Rithvik](https://medium.com/@rithvikbhaskarc)"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="48"/></a>
+<a href="https://medium.com/@rithvikbhaskarc"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="48"/></a>
 </p>
 
 ---
